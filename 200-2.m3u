@@ -64,6 +64,47 @@ TVBS HD,http://t.061899.xyz/tl/js/js.php?id=tvbshd
 TVBS HD,http://t.061899.xyz/tl/js/js.php?id=tvbshd1
 TVBS新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
 
+
+#EXTM3U
+#EXTINF:-1 ,CCTV-1
+rtp://239.254.200.45:8008
+#EXTINF:-1 ,CCTV-2
+rtp://239.254.200.158:6000
+#EXTINF:-1 ,CCTV-3
+rtp://239.254.200.13:6000
+#EXTINF:-1 ,CCTV-4
+rtp://239.254.200.190:6307
+#EXTINF:-1 ,CCTV-5
+rtp://239.254.200.14:6000
+#EXTINF:-1 ,CCTV-5＋
+rtp://239.254.200.46:8004
+#EXTINF:-1 ,CCTV-6
+rtp://239.254.200.15:6000
+#EXTINF:-1 ,CCTV-7
+rtp://239.254.200.159:6000
+#EXTINF:-1 ,CCTV-8
+rtp://239.254.200.16:6000
+#EXTINF:-1 ,CCTV-9
+rtp://239.254.200.59:8112
+#EXTINF:-1 ,CCTV-10
+rtp://239.254.200.160:6000
+#EXTINF:-1 ,CCTV-11
+rtp://239.254.200.7:8040
+#EXTINF:-1 ,CCTV-12
+rtp://239.254.200.161:6000
+#EXTINF:-1 ,CCTV-13
+rtp://239.254.200.9:8264
+#EXTINF:-1 ,CCTV-14
+rtp://239.254.200.162:6000
+#EXTINF:-1 ,CCTV-15
+rtp://239.254.200.11:8052
+#EXTINF:-1 ,CCTV-17
+rtp://239.254.201.120:8144
+#EXTINF:-1 ,CGTN
+rtp://239.254.200.12:8056
+
+
+
 央视高清1,#genre#
 cctv1,http://112.27.235.94:8000/hls/1/index.m3u8
 cctv2,http://112.27.235.94:8000/hls/2/index.m3u8
