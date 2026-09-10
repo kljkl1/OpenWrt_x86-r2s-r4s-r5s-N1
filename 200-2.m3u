@@ -66,43 +66,30 @@ TVBS新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
 
 
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-rtp://239.254.200.45:8008
-#EXTINF:-1 ,CCTV-2
-rtp://239.254.200.158:6000
-#EXTINF:-1 ,CCTV-3
-rtp://239.254.200.13:6000
-#EXTINF:-1 ,CCTV-4
-rtp://239.254.200.190:6307
-#EXTINF:-1 ,CCTV-5
-rtp://239.254.200.14:6000
-#EXTINF:-1 ,CCTV-5＋
-rtp://239.254.200.46:8004
-#EXTINF:-1 ,CCTV-6
-rtp://239.254.200.15:6000
-#EXTINF:-1 ,CCTV-7
-rtp://239.254.200.159:6000
-#EXTINF:-1 ,CCTV-8
-rtp://239.254.200.16:6000
-#EXTINF:-1 ,CCTV-9
-rtp://239.254.200.59:8112
-#EXTINF:-1 ,CCTV-10
-rtp://239.254.200.160:6000
-#EXTINF:-1 ,CCTV-11
-rtp://239.254.200.7:8040
-#EXTINF:-1 ,CCTV-12
-rtp://239.254.200.161:6000
-#EXTINF:-1 ,CCTV-13
-rtp://239.254.200.9:8264
-#EXTINF:-1 ,CCTV-14
-rtp://239.254.200.162:6000
-#EXTINF:-1 ,CCTV-15
-rtp://239.254.200.11:8052
-#EXTINF:-1 ,CCTV-17
-rtp://239.254.201.120:8144
-#EXTINF:-1 ,CGTN
-rtp://239.254.200.12:8056
-
+#EXTINF:-1 ,CCTV1HD
+http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
+#EXTINF:-1 ,CCTV2HD
+http://vss.cbnmtv.com/live/yt_cctv2_h_1.m3u8?channelid=yt_cctv2_h
+#EXTINF:-1 ,CCTV3HD
+http://vss.cbnmtv.com/live/yt_cctv3_h_1.m3u8?channelid=yt_cctv3_h
+#EXTINF:-1 ,CCTV4HD
+http://vss.cbnmtv.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?channelid=yt_cctv4zhongwenguoji_h
+#EXTINF:-1 ,CCTV5HD
+http://vss.cbnmtv.com/live/ty_cctv5_h_1.m3u8?channelid=ty_cctv5_h_1
+#EXTINF:-1 ,CCTV6HD
+http://vss.cbnmtv.com/live/yt_cctv6_h_1.m3u8?channelid=yt_cctv6_h
+#EXTINF:-1 ,CCTV7HD
+http://vss.cbnmtv.com/live/yt_cctv7_h_1.m3u8?channelid=yt_cctv7_h
+#EXTINF:-1 ,CCTV8HD
+http://vss.cbnmtv.com/live/ty_cctv8_h_1.m3u8?channelid=yt_cctv8_h
+#EXTINF:-1 ,CCTV9HD
+http://vss.cbnmtv.com/live/yt_cctv9_h_1.m3u8?channelid=yt_cctv9_h
+#EXTINF:-1 ,CCTV10HD
+http://vss.cbnmtv.com/live/yt_cctv10_h_1.m3u8?channelid=yt_cctv10_h
+#EXTINF:-1 ,CCTV12HD
+http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
+#EXTINF:-1 ,CCTV14HD
+http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
 
 
 央视高清1,#genre#
